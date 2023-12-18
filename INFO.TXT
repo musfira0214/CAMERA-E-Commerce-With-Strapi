@@ -1,0 +1,11 @@
+WEBSITE YOUTUBE LINK
+
+https://www.youtube.com/watch?v=zMUw7IUfQEk&t=2481s
+
+
+STRIPE 
+Publishable key
+pk_test_51OCbHfGSd1c1HfRhJC3UJ8V0eZRhwxRD587ESqtv1stM0h4VWuUD8P17I8Mp7uF2nkazGUPxznCss4mFVnNsr1fH00gj4yyaDv
+
+Secret key
+sk_test_51OCbHfGSd1c1HfRh7Jxe6Yig5WczztbD54q7FCSvHJJmzto32DKXHJyK0X7LwWCr5LOmLd7gkFP3iOOCNlHb0tYW005THhcnI7
